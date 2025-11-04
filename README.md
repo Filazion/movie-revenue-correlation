@@ -82,9 +82,9 @@ This project aims to:
 
 | Visualization | Description |
 |----------------|-------------|
-| ![Budget vs Gross](./movie-scatter-budget-gross.png) | Scatter plot with regression line showing `Budget` vs `Gross` |
-| ![Correlation Heatmap](./movie-corr-heatmap.png) | Pearson heatmap of all numerical and encoded categorical features |
-| ![Top Factors](./movie-top-factors.png) | Top correlated features influencing gross revenue |
+| ![Budget vs Gross](./images/movie-scatter-budget-gross.png) | Scatter plot with regression line showing `Budget` vs `Gross` |
+| ![Correlation Heatmap](./images/movie-corr-heatmap.png) | Pearson heatmap of all numerical and encoded categorical features |
+| ![Top Factors](./images/movie-top-factors.png) | Top correlated features influencing gross revenue |
 
 ---
 
